@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=772953&size=40&center=true&vCenter=true&lines=+Hi👋%2C+I'm+Mert.)](https://git.io/typing-svg)
 <br>
-<h2>Full Stack Web Developer</h2>
+<h2>Full Stack Developer</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtcnrdm&label=Profile%20views&color=0e75b6&style=flat" alt="mrtcnrdm" /> </p>
