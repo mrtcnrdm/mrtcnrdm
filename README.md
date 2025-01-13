@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtcnrdm&label=Profile%20views&color=0e75b6&style=flat" alt="mrtcnrdm" /> </p>
-
+<a href="https://wakatime.com/@69b7554f-8790-4d7e-8a7a-fd0fdc9b878b"><img src="https://wakatime.com/badge/user/69b7554f-8790-4d7e-8a7a-fd0fdc9b878b.svg" alt="Total time coded since Jan 9 2025" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtcnrdm" alt="mrtcnrdm" /></a> </p>
-[![wakatime](https://wakatime.com/badge/user/69b7554f-8790-4d7e-8a7a-fd0fdc9b878b.svg)](https://wakatime.com/@69b7554f-8790-4d7e-8a7a-fd0fdc9b878b) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
