@@ -18,9 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtcnrdm&show_icons=true&locale=en" alt="mrtcnrdm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtcnrdm&" alt="mrtcnrdm" /></p>
-<figure><embed src="https://wakatime.com/share/@mrtcnrdm/54944b16-992d-4ef9-8d49-051b78f1de54.svg"></embed></figure>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
