@@ -16,13 +16,13 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/mrtcnrdm" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
 </a>
 <a href="https://instagram.com/mrtcnrdm" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30"/>
 </a>
 <a href="https://medium.com/@mrtcnrdm" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="30"/>
 </a>
 </p>
 
@@ -39,9 +39,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mrtcnrdm&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtcnrdm&layout=compact&theme=tokyonight&cache_seconds=86400" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrtcnrdm&show_icons=true&theme=tokyonight" height="150"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrtcnrdm&layout=compact&theme=tokyonight" height="150"/>
+
 </p>
 
 ---
